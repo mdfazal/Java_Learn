@@ -3,4 +3,4 @@ This repo contains all programs in Java
 
 In order to compile java file 
 First Command - javac filename.java
-Second Command - java classname
+Second Command - java classname.
